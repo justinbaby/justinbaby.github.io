@@ -1,12 +1,12 @@
 # Basic
-title: 产品打杂
-subtitle: 不忘初心，方得始终
-description: 个人简介：关于产品打杂的碎碎念／公众号产品打杂
+title: 程序汪
+subtitle: just coding
+description: 程序汪
 # 头像里面的标题
-avatarTitle: 产品
+avatarTitle: code dog
 # 头像里面的描述
-avatarDesc: 产品打杂
-url: "http://jiaoqiangbusha.com"
+avatarDesc: code dog
+#url: "http://jiaoqiangbusha.com"
 
 # Comment
 comment:
@@ -15,11 +15,11 @@ comment:
 
 # Social
 social:
-    weibo: 产品打杂
-    zhihu: zhoulink
-    github: zhoulink1992
+    weibo: 5255754199
+    zhihu: justinnever
+    github: justinbaby
     # twitter: 
-    mail: 381858527@qq.com
+    mail: 2856416722@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
