@@ -1,12 +1,12 @@
 # Basic
-title: 程序狗
-subtitle: CodeDog
-description: 个人简介: 既是咸鱼,又是辣鸡
+title: 产品打杂
+subtitle: 不忘初心，方得始终
+description: 个人简介：关于产品打杂的碎碎念／公众号产品打杂
 # 头像里面的标题
-avatarTitle: 程序狗
+avatarTitle: 产品
 # 头像里面的描述
-avatarDesc: 程序人生
-#url: "http://jiaoqiangbusha.com"
+avatarDesc: 产品打杂
+url: "http://jiaoqiangbusha.com"
 
 # Comment
 comment:
@@ -15,11 +15,11 @@ comment:
 
 # Social
 social:
-    weibo: 5255754199
-    zhihu: justinnever
-    github: justinbaby
+    weibo: 产品打杂
+    zhihu: zhoulink
+    github: zhoulink1992
     # twitter: 
-    mail: 2856416722@qq.com
+    mail: 381858527@qq.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
