@@ -1,3 +1,3 @@
 # blog
 
-My Blog
+My BlogGBDB
