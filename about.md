@@ -1,4 +1,3 @@
----
 layout: page
 title: 关于我 
 ---
@@ -6,5 +5,8 @@ title: 关于我
 一只程序汪。
 {% include comments.html %}
 
-增加
-![Uploading alipay.jpg…]()
+捐赠和打赏
+![alipay](https://raw.githubusercontent.com/justinbaby/justinbaby.github.io/master/images/payimg/alipay.jpg)
+
+
+
